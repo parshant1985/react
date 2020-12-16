@@ -141,7 +141,7 @@ img {
       }
 
 }
-/* Use a media query to add a break point at 800px: */
+/* Use a media query to add a break point at 700px: */
 @media only screen and (max-width: 700px) {
   .item2 { width: auto ;}
   .main-layout {
